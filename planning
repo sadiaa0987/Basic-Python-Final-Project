@@ -1,0 +1,83 @@
+Problem:
+Create a program to manage student records for a school.
+
+Requirements:
+1. Add new student records(name, roll and grades)
+2. Update student records
+3.Delete record
+4. Search record via roll or name
+5. save data and load when program starts
+
+
+planning:
+1. to add new student record have to take user input .
+2. to update the data will save the data as a text file.
+3.roll ar name er format specific rakhbo jate search korar kaj complicated na hoy
+4.to delete a student record search them by their roll number and remove the student from records.
+5.we can search for students by their roll number for more exact match.
+6.save all student records as a text file.
+7.Have to retrieve all the data when the program restarts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
